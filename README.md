@@ -1,4 +1,4 @@
-## Welcome to awesome game 
+## Welcome to awesome games
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
